@@ -1,7 +1,7 @@
 dailybruin-recycling
 ====================
 
-[sample](sample.png)
+![sample photo](https://github.com/lowellbander/dailybruin-recycling/blob/master/sample.png)
 
 #todo
 
