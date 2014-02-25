@@ -2,7 +2,10 @@
 			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 			color: white;
 			font-size: 50px;
-			width: 50%;
+			position: relative;
+			width: 70%;
+			text-align: center;
+			text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
 		}
 		p {
 			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
