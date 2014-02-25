@@ -8,7 +8,11 @@
 			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 			color: white;
 			font-size: 20px;
-			width: 50%;
+			/*position: absolute;*/
+			position: relative;
+			width: 70%;
+			text-align: center;
+			/*width: 100%;*/
 			text-shadow: 0px 0px 10px #000, 0px 0px 10px #000;
 		}
 
@@ -22,10 +26,10 @@
 		 
 		.first article {
 			height: 458px;
-			position: absolute;
-			text-align: center;
+			/*position: absolute;*/
+			/*text-align: center;*/
 			top: 150px;
-			width: 100%;
+			/*width: 100%;*/
 		}
 		 
 		.second {
@@ -43,12 +47,7 @@
 			position: absolute;
 			text-align: center;
 			top: 150px;
-			width: 100%;
-		}
-
-		.bkgd {
-			background-repeat : no-repeat;
-			background-size: 100%;
+			/*width: 100%;*/
 		}
 
 		/* photos */
