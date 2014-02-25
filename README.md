@@ -3,5 +3,4 @@ dailybruin-recycling
 
 #todo
 
-* find a template using parallax
-* could do some dataviz with [this](https://docs.google.com/a/media.ucla.edu/file/d/0BwqG4ZIbJejUTFpOaXdTcGVhbjA/edit)
+* increase the blur of the background as you scroll down (to make the text more readable)
