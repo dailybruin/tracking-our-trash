@@ -1,82 +1,83 @@
 <!DOCTYPE html>
 <!-- thank god for http://code.tutsplus.com/tutorials/a-simple-parallax-scrolling-technique--net-27641 -->
 <head>
+	<title>Recycling Story</title>
 	<style type="text/css">
+		strong {
+			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
+			color: white;
+			font-size: 50px;
+			width: 50%;
+		}
 		article {
 			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 			color: white;
-			font-size: 25px;
+			font-size: 20px;
+			width: 50%;
 		}
 
 		.first {
-		  height: 1000px;
-		  margin: 0 auto;
-		  width: 100%;
-		  max-width: 1920px;
-		  position: relative;
+			height: 1000px;
+			margin: 0 auto;
+			width: 100%;
+			max-width: 1920px;
+			position: relative;
 		}
 		 
 		.first article {
-		  height: 458px;
-		  position: absolute;
-		  text-align: center;
-		  top: 150px;
-		  width: 100%;
+			height: 458px;
+			position: absolute;
+			text-align: center;
+			top: 150px;
+			width: 100%;
 		}
 		 
 		.second {
-		  height: 1000px;
-		  margin: 0 auto;
-		  width: 100%;
-		  max-width: 1920px;
-		  position: relative;
-		  -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
-		  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+			height: 1000px;
+			margin: 0 auto;
+			width: 100%;
+			max-width: 1920px;
+			position: relative;
+			-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
+			box-shadow: 0 0 50px rgba(0,0,0,0.8);
 		}
 		 
 		.second article {
-		  height: 458px;
-		  position: absolute;
-		  text-align: center;
-		  top: 150px;
-		  width: 100%;
+			height: 458px;
+			position: absolute;
+			text-align: center;
+			top: 150px;
+			width: 100%;
 		}
 
-		#oneA {
-			background: url(photos/web.ns.2.27.recycling1.picA.jpg) 50% 0 repeat fixed; min-height: 1000px;
+		.bkgd {
+			background-repeat : no-repeat;
+			background-size: 100%;
 		}
 
-		#oneB {
-			background: url(photos/web.ns.2.27.recycling1.picB.jpg) 50% 0 repeat fixed; min-height: 1000px;
+		/* photos */
+
+		#oneA { 
+			background: url(photos/web.ns.2.27.recycling1.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; 
+			background-repeat : no-repeat;
+			background-size: 100%;
 		}
 
-		#oneC {
-			background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#oneB { background: url(photos/web.ns.2.27.recycling1.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#oneD {
-			background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#oneC { background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#twoA {
-			background: url(photos/web.ns.2.27.recycling2.picA.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#oneD { background: url(photos/web.ns.2.27.recycling1.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#twoB {
-			background: url(photos/web.ns.2.27.recycling2.picB.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#twoA { background: url(photos/web.ns.2.27.recycling2.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#twoC {
-			background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#twoB { background: url(photos/web.ns.2.27.recycling2.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#twoD {
-			background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#twoC { background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
-		#twoE {
-			background: url(photos/web.ns.2.27.recycling2.picE.jpg) 50% 0 repeat fixed; min-height: 1000px;
-		}
+		#twoD { background: url(photos/web.ns.2.27.recycling2.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; }
+
+		#twoE { background: url(photos/web.ns.2.27.recycling2.picE.jpg) 50% 0 repeat fixed; min-height: 1000px; }
 
 	</style>
 	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
@@ -100,11 +101,35 @@
 </head>
 <section id="oneA" class="first" data-type="background" data-speed="10">
 	<article>
+		<strong>RECYCLING STORY</strong>
+		<br><br>
 		Each of the more than 300 trash and recycling bins that litter the university is marked with the same goal: zero-waste by 2020.
+		<br><br>
+		“It’s a bit ambitious,” said Jesse Escobar, UCLA’s recycling coordinator. “But I think we can do it.”
+		<br><br>
+		Zero-waste is a plan of action for UCLA and the rest of the University of California to divert 100 percent of its waste from landfills using techniques that include bolstered recycling practices. 
+		<br><br>
+		The process itself starts with a bottle being tossed absentmindedly in a recycling bin. 
+		<br><br>
+		But that’s only the beginning of the journey for UCLA’s massive amounts of waste, a process involving multiple coordinating organizations and sometimes thousands of miles of travel.  
+		<br><br>
+		The double-barreled bins have become ubiquitous on campus, beckoning people to throw their plastic bottles, aluminum cans or scrunched-up midterms into the designated container. 
+		<br><br>
+		Inside the bin, the bottle is collected, along with the rest of the recyclables, in a clear plastic bag —the clear plastic used as part of a pervasive color coding process.
+		 <br><br>	
+		From there, the bags are collected by UCLA facilities management personnel, often driving the white square-paneled metal carts seen buzzing around the university’s pathways. The carts putter to a stop at one of the numerous docks associated with specific buildings or one of three centralized pick up locations scattered in the lots and backends of campus. 
+		<br><br>
+		Loads of bags are then dumped into either a recycling compactor or a three-yard metal bin – both color coded blue – to await pickup.
 	</article>
 </section>  
      
 <section id="oneB" class="second" data-type="background" data-speed="10">
+	<article>
+		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
+	</article>
+</section>
+
+<section id="oneC" class="second" data-type="background" data-speed="10">
 	<article>
 		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
 	</article>
@@ -128,12 +153,6 @@
 	</article>
 </section>
 
-<section id="twoC" class="second" data-type="background" data-speed="10">
-	<article>
-		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
-	</article>
-</section>
-
 <section id="twoD" class="second" data-type="background" data-speed="10">
 	<article>
 		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
@@ -141,18 +160,6 @@
 </section>
 
 <section id="twoE" class="second" data-type="background" data-speed="10">
-	<article>
-		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
-	</article>
-</section>
-
-<section id="oneB" class="second" data-type="background" data-speed="10">
-	<article>
-		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
-	</article>
-</section>
-
-<section id="oneB" class="second" data-type="background" data-speed="10">
 	<article>
 		"It's a bit ambitious,"" said Jesse Escobar, UCLA's recycling coordinator. "But I think we can do it."
 	</article>
