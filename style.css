@@ -11,7 +11,7 @@
 			position: relative;
 			width: 70%;
 			text-align: center;
-			text-shadow: 0px 0px 10px #000, 0px 0px 10px #000;
+			text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
 		}
 
 		section {
@@ -21,9 +21,7 @@
 		.first {
 			height: 1000px;
 			margin: 0 auto;
-			width: 100%;
 			max-width: 1920px;
-			position: relative;
 		}
 		 
 		.first article {
@@ -43,46 +41,26 @@
 		 
 		.second article {
 			height: 458px;
-			position: absolute;
 			text-align: center;
 			top: 150px;
 		}
 
 		/* photos */
 
-		#oneA { 
-			background: url(photos/web.ns.2.27.recycling1.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-		}
+		#oneA { background: url(photos/web.ns.2.27.recycling1.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#oneB { background: url(photos/web.ns.2.27.recycling1.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#oneB { background: url(photos/web.ns.2.27.recycling1.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#oneC { background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#oneC { background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#oneD { background: url(photos/web.ns.2.27.recycling1.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#oneD { background: url(photos/web.ns.2.27.recycling1.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#twoA { background: url(photos/web.ns.2.27.recycling2.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#twoA { background: url(photos/web.ns.2.27.recycling2.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#twoB { background: url(photos/web.ns.2.27.recycling2.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#twoB { background: url(photos/web.ns.2.27.recycling2.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#twoC { background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#twoC { background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#twoD { background: url(photos/web.ns.2.27.recycling2.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#twoD { background: url(photos/web.ns.2.27.recycling2.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
 
-		#twoE { background: url(photos/web.ns.2.27.recycling2.picE.jpg) 50% 0 repeat fixed; min-height: 1000px; 
-			background-size: cover;
-			}
+		#twoE { background: url(photos/web.ns.2.27.recycling2.picE.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
