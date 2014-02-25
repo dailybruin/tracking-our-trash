@@ -1,56 +1,48 @@
-		strong {
-			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
-			color: white;
-			font-size: 50px;
-			position: relative;
-			width: 70%;
-			text-align: center;
-			text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
-		}
-		p {
-			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
-			color: white;
-			font-size: 20px;
-			position: relative;
-			margin-left: 20%;
-			width: 70%;
-			text-align: center;
-			text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
-		}
+strong {
+	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
+	color: white;
+	font-size: 50px;
+	position: relative;
+	width: 70%;
+	text-align: center;
+	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
+}
+p {
+	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	margin-left: 20%;
+	width: 70%;
+	text-align: center;
+	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
+}
 
-    /*DONT TOUCH THIS SHIT TOOK ME FOREVER*/
-    section {
-      background: 50% 0 no-repeat fixed;
-      background-size: auto 150%;
-      min-height: 100%;
-      position: relative;
-      padding: 1em 0 1em 0;
-      -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
-      box-shadow: 0 0 50px rgba(0,0,0,0.8);
-    }
+/*DONT TOUCH THIS SHIT TOOK ME FOREVER*/
+section {
+  background: 50% 0 no-repeat fixed;
+  background-size: auto 150%;
+  min-height: 100%;
+  position: relative;
+  padding: 1em 0 1em 0;
+  -webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
+  box-shadow: 0 0 50px rgba(0,0,0,0.8);
+}
 
-    html, body {
-      margin: 0;
-      height: 100%;
-    }
-    /*END OF SHIT YOU CANT TOUCH*/
+html, body {
+  margin: 0;
+  height: 100%;
+}
+/*END OF SHIT YOU CANT TOUCH*/
 
-		/* photos */
+/* photos */
 
-		#oneA { background-image: url(photos/web.ns.2.27.recycling1.picA.jpg); }
-
-		#oneB { background-image: url(photos/web.ns.2.27.recycling1.picB.jpg); }
-
-		#oneC { background-image: url(photos/web.ns.2.27.recycling1.picC.jpg); }
-
-		#oneD { background-image: url(photos/web.ns.2.27.recycling1.picD.jpg); }
-
-		#twoA { background-image: url(photos/web.ns.2.27.recycling2.picA.jpg); }
-
-		#twoB { background-image: url(photos/web.ns.2.27.recycling2.picB.jpg); }
-
-		#twoC { background-image: url(photos/web.ns.2.27.recycling2.picC.jpg); }
-
-		#twoD { background-image: url(photos/web.ns.2.27.recycling2.picD.jpg); }
-
-		#twoE { background-image: url(photos/web.ns.2.27.recycling2.picE.jpg); }
+#oneA { background-image: url(photos/web.ns.2.27.recycling1.picA.jpg); }
+#oneB { background-image: url(photos/web.ns.2.27.recycling1.picB.jpg); }
+#oneC { background-image: url(photos/web.ns.2.27.recycling1.picC.jpg); }
+#oneD { background-image: url(photos/web.ns.2.27.recycling1.picD.jpg); }
+#twoA { background-image: url(photos/web.ns.2.27.recycling2.picA.jpg); }
+#twoB { background-image: url(photos/web.ns.2.27.recycling2.picB.jpg); }
+#twoC { background-image: url(photos/web.ns.2.27.recycling2.picC.jpg); }
+#twoD { background-image: url(photos/web.ns.2.27.recycling2.picD.jpg); }
+#twoE { background-image: url(photos/web.ns.2.27.recycling2.picE.jpg); }
