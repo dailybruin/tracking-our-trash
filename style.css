@@ -4,7 +4,7 @@
 			font-size: 50px;
 			width: 50%;
 		}
-		article {
+		p {
 			font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 			color: white;
 			font-size: 20px;
@@ -14,53 +14,37 @@
 			text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
 		}
 
-		section {
-			background-size: cover;
-		}
+    /*DONT TOUCH THIS SHIT TOOK ME FOREVER*/
+    section {
+      background: 50% 0 no-repeat fixed;
+      background-size: auto 150%;
+      min-height: 100%;
+      position: relative;
+      padding: 1em 0 1em 0;
+    }
 
-		.first {
-			height: 1000px;
-			margin: 0 auto;
-			max-width: 1920px;
-		}
-		 
-		.first article {
-			height: 458px;
-			top: 150px;
-		}
-		 
-		.second {
-			height: 1000px;
-			margin: 0 auto;
-			width: 100%;
-			max-width: 1920px;
-			position: relative;
-			-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.8);
-			box-shadow: 0 0 50px rgba(0,0,0,0.8);
-		}
-		 
-		.second article {
-			height: 458px;
-			text-align: center;
-			top: 150px;
-		}
+    html, body {
+      margin: 0;
+      height: 100%;
+    }
+    /*END OF SHIT YOU CANT TOUCH*/
 
 		/* photos */
 
-		#oneA { background: url(photos/web.ns.2.27.recycling1.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#oneA { background-image: url(photos/web.ns.2.27.recycling1.picA.jpg); }
 
-		#oneB { background: url(photos/web.ns.2.27.recycling1.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#oneB { background-image: url(photos/web.ns.2.27.recycling1.picB.jpg); }
 
-		#oneC { background: url(photos/web.ns.2.27.recycling1.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#oneC { background-image: url(photos/web.ns.2.27.recycling1.picC.jpg); }
 
-		#oneD { background: url(photos/web.ns.2.27.recycling1.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#oneD { background-image: url(photos/web.ns.2.27.recycling1.picD.jpg); }
 
-		#twoA { background: url(photos/web.ns.2.27.recycling2.picA.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#twoA { background-image: url(photos/web.ns.2.27.recycling2.picA.jpg); }
 
-		#twoB { background: url(photos/web.ns.2.27.recycling2.picB.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#twoB { background-image: url(photos/web.ns.2.27.recycling2.picB.jpg); }
 
-		#twoC { background: url(photos/web.ns.2.27.recycling2.picC.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#twoC { background-image: url(photos/web.ns.2.27.recycling2.picC.jpg); }
 
-		#twoD { background: url(photos/web.ns.2.27.recycling2.picD.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#twoD { background-image: url(photos/web.ns.2.27.recycling2.picD.jpg); }
 
-		#twoE { background: url(photos/web.ns.2.27.recycling2.picE.jpg) 50% 0 repeat fixed; min-height: 1000px; background-size: cover; }
+		#twoE { background-image: url(photos/web.ns.2.27.recycling2.picE.jpg); }
