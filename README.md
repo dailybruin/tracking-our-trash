@@ -5,7 +5,7 @@ dailybruin-recycling
 
 #todo
 
-* add in all text (pending completed article)
+* <del> add in all text (pending completed article) </del>
 * pretty fonts!
 * add in graphics
 * add in GitHub link
