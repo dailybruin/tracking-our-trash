@@ -8,11 +8,19 @@ div {
 	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
 	box-shadow: 1px 2px 3px rgba(0,0,0,.8);
 	background-color: rgba(0, 0, 0, 0.45);
-	width: 50%;
+	width: 60%;
 	margin: 0 auto;
 	border-radius:25px;
 }
 p {
+	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
+	color: white;
+	font-size: 20px;
+	position: relative;
+	text-align: center;
+	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
+}
+a {
 	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 	color: white;
 	font-size: 20px;
