@@ -7,6 +7,7 @@ dailybruin-recycling
 #todo
 
 * add in graphics
+* add in them extra photos. fullscreen lightbox?
 * pretty fonts!
 * <del> add in all text (pending completed article) </del>
 * <del> add in GitHub link </del>
