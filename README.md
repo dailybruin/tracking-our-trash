@@ -5,11 +5,11 @@ dailybruin-recycling
 
 #todo
 
-* <del> add in all text (pending completed article) </del>
-* pretty fonts!
 * add in graphics
-* add in GitHub link
-* add in credit for Jenny, Fred, & Lowell
+* pretty fonts!
+* <del> add in all text (pending completed article) </del>
+* <del> add in GitHub link </del>
+* <del> add in credit for Jenny, Fred, & Lowell </del>
 * <del> blurred rounded rectangle between the text and the backround, but only behind the text (not covering the entire background) </del>
 * <del> center the text! </del>
 * <del> fix tiling issue </del>
