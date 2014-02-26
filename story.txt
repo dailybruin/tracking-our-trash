@@ -28,7 +28,7 @@
 
 <p>The amalgam of detergent bottles, manila envelopes and water bottles is a result of single-stream recycling, which many have touted as the way forward to increase consumer recycling.</p>
 
-<p>A new cycle</p>
+HEADER <p>A new cycle</p>
 
 <p>The increase in recycling efforts at UCLA, however, goes along with an understanding that recycling itself isn't the best thing to do for sustainability.</p>
 
@@ -74,7 +74,7 @@
 
 <p>"It's a bit more complicated than this, but the materials we send there, the majority comes right back to us as finished products," Powell said. "Everything from the phone on your desk to the shoebox that packages your new Nikes."</p>
 
-<p>Talkin' Trash</p>
+HEADER <p>Talkin' Trash</p>
 
 <p>So the plastic bottle thrown away might just turn into a cellphone in a couple of years, but what happens if a recyclable is instead thrown into the trash?</p>
 
@@ -116,7 +116,7 @@
 
 <p>The diverse nature of campus waste leads to different concerns and different procedures for recycling.</p>
 
-<p>Electronic waste</p>
+HEADER <p>Electronic waste</p>
 
 <p>Say there's a gummed-up keyboard or an old 20-pound monitor from a professor's office that needs to be recycled. Here things get a little trickier.</p>
 
@@ -158,7 +158,7 @@
 
 <p>The club applied for a grant with the Green Initiative Fund in 2012 to provide the plastic e-waste collection tubes seen in various locations on the Hill and campus, said Jenna Hoover, an e-waste coordinator with E3 and second-year economics student.</p>
 
-<p>A sustainable future</p>
+HEADER <p>A sustainable future</p>
 
 <p>In 2012, the benchmark for landfill diversion for all universities in the UC was 75 percent, which was met by UCLA. Rates of waste that did not end up in landfill in 2013 were measured at more than 80 percent.</p>
 
@@ -172,4 +172,6 @@
 
 <p>Escobar said education remains one of the major goals of sustainability personnel on campus. He said getting through to people not only that they should recycle, but the reasoning behind it, is vital.</p>
 
-<p>"By this point everybody's heard about recycling, it's been beaten into our heads our entire life," Escobar said. "I think that the biggest challenge is finding that trigger to motivate them." Because while the process starts with a bottle thrown in a bin, it only works if it's the right one.</p>
+<p>"By this point everybody's heard about recycling, it's been beaten into our heads our entire life," Escobar said. "I think that the biggest challenge is finding that trigger to motivate them." </p>
+
+<p>Because while the process starts with a bottle thrown in a bin, it only works if it's the right one.</p>
