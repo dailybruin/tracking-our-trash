@@ -58,3 +58,11 @@ html, body {
 #twoC { background-image: url(photos/web.ns.2.27.recycling2.picC.jpg); }
 #twoD { background-image: url(photos/web.ns.2.27.recycling2.picD.jpg); }
 #twoE { background-image: url(photos/web.ns.2.27.recycling2.picE.jpg); }
+#exports { 
+	background-image: url(graphics/2.27.news.cl.waste.export.edit3.jpg); 
+	background-size: 100%;
+}
+#waste { 
+	background-image: url(graphics/combine_images.jpg); 
+	background-size: 100%;
+}
