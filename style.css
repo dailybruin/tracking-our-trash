@@ -1,33 +1,31 @@
 div {
-	/*filter: blur(10px); */
-	/*-webkit-filter: blur(10px);*/
-	/*-moz-filter: blur(10px);*/
-	/*-o-filter: blur(10px); */
-	/*-ms-filter: blur(10px);*/
-	/*-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);*/
-	/*-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);*/
-	/*box-shadow: 1px 2px 3px rgba(0,0,0,.8);*/
-	/*background-color: rgba(0, 0, 0, 0.45);*/
+	filter: blur(10px);
+	/*-webkit-filter: blur(2px);*/
+	-moz-filter: blur(10px);
+	-o-filter: blur(10px); 
+	-ms-filter: blur(10px);
+	-moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+	box-shadow: 1px 2px 3px rgba(0,0,0,.8);
+	background-color: rgba(0, 0, 0, 0.45);
 	width: 50%;
 	margin: 0 auto;
-	/*position: relative;*/
-	/*border-radius:25px;*/
-}
-
-strong {
-	font-family: Georgia,Roboto,"Open Sans","Helvetica Neue",Helvetica;
-	color: white;
-	font-size: 50px;
-	position: relative;
-	width: 70%;
-	text-align: center;
-	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
+	border-radius:25px;
 }
 p {
 	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 	color: white;
 	font-size: 20px;
 	position: relative;
+	text-align: center;
+	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
+}
+strong {
+	font-family: Georgia,Roboto,"Open Sans","Helvetica Neue",Helvetica;
+	color: white;
+	font-size: 50px;
+	position: relative;
+	width: 70%;
 	text-align: center;
 	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
 }
