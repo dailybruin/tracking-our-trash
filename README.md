@@ -6,8 +6,8 @@ dailybruin-recycling
 #todo
 
 * add in all text (pending completed article)
-* blurred rounded rectangle between the text and the backround, but only behind the text (not covering the entire background)
 * pretty fonts!
+* <del> blurred rounded rectangle between the text and the backround, but only behind the text (not covering the entire background) </del>
 * <del> center the text! </del>
 * <del> fix tiling issue </del>
 * <del> add in all photos </del>
