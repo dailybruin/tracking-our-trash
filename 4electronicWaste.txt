@@ -1,0 +1,41 @@
+<p>Electronic waste</p>
+
+<p>Say there's a gummed-up keyboard or an old 20-pound monitor from a professor's office that needs to be recycled. Here things get a little trickier.</p>
+
+<p>Electronic waste – commonly known as e-waste – is not considered municipal solid waste because of different categories for its disposal.</p>
+
+<p>Regardless, there are many efforts to recycle the tons of electronics that get discarded at UCLA.</p>
+
+<p>Unpowered casings of old TVs and computers idle on huge pallets on the grounds of a decommissioned military base in Irvine, Calif., the final resting place for most of the 10 to 16 tons of e-waste produced monthly on campus.</p>
+
+<p>UCLA's e-waste is sorted and processed at the company's location in Paramount then sent to Irvine, said Maureen Craine, vice president of marketing and business development of e-Recycling of California, a company that handles more than 90 percent of UCLA's e-waste.</p>
+
+<p>The process by which electronic waste gets recycled varies based on the kind of material that is sent to the site.</p>
+
+<p>Take an old computer monitor as an example.</p>
+
+<p>The process starts by using things like the serial number to try and identify the make, model and original purchasing location of the product.</p>
+
+<p>From there the monitor gets separated into individual parts, the outer housing unit is torn away from the CRT or cathode ray tube, which is the part that creates the image on the screen. At this point workers and machines start separating and processing different parts of the monitor, splitting up plastics, metals and glass into categories.</p>
+
+<p>The CRTs, the most valuable component of the unit, are sent to a smelter that heats the part at temperatures up to 25,000 degrees to remove lead from the tubes.</p>
+
+<p>These unleaded tubes are then generally sold overseas. In India there is a big market for unleaded cathode ray tubes, Craine said.</p>
+
+<p>Craine said there are specific concerns about ethical electronic recycling because of hazardous materials that go into electronics. Electronic waste often contains toxic chemicals such as the lead in CRTs.</p>
+
+<p>Barbara Kyl, the national coordinator of the Electronics TakeBack Coalition, which promotes responsible recycling in the electronics industry, said many e-waste recycling companies send their waste to developing countries, where they often end up in outdoor backyard recycling operations close to residential areas.</p>
+
+<p>"There is little in terms of regulations," Kyl said. "Even when a company says they follow all local and federal law, it doesn't mean much since there almost aren't any."</p>
+
+<p>The lack of official regulation has led to independent organizations attempts to create a voluntary standard for responsible electronic recycling.</p>
+
+<p>e-Recycling of California's Irvine site is certified under the e-Stewards certification program, which give companies assistance and auditing of their recycling processes.</p>
+
+<p>Although e-Recycling of California handles electronic recycling of campus electronics, personal e-waste recycling for students, staff and faculty is not covered.</p>
+
+<p>UCLA hosts a S.A.F.E. collection center located on Charles E. Young Drive for collection, but it only accepts electronic waste one day a week.</p>
+
+<p>Ecology, Economy and Equity, an environmental group at UCLA, has created a program to make up for this gap in the collection of personal e-waste.</p>
+
+<p>The club applied for a grant with the Green Initiative Fund in 2012 to provide the plastic e-waste collection tubes seen in various locations on the Hill and campus, said Jenna Hoover, an e-waste coordinator with E3 and second-year economics student.</p>
