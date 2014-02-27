@@ -1,12 +1,8 @@
 img.thumb {
-	height: 350px;
-}
-img {
-
+	height: 220px;
 }
 div.image {
-	/*margin-left: auto*/
-	vertical-align: middle
+	text-align: center;
 }
 div.body {
 	filter: blur(10px);

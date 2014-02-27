@@ -3,7 +3,7 @@ dailybruin-recycling
 
 #todo
 
-* add graphics
+* <del>add graphics</del>
 * <del>pretty fonts!</del>
 * <del>lightbox for extra photos (get captions from Katherine)</del>
 * <del>move photo credit to top (remove word "courtesy") Photos by Austin Yu/Daily Bruin</del>
