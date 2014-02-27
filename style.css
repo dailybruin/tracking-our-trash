@@ -29,15 +29,24 @@ div {
 	padding: 1em;
 }
 p {
-	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
+	font-family: Helvetica,Arial,sans-serif;
 	color: white;
 	font-size: 20px;
 	position: relative;
+	font-weight: 300;
 	text-shadow: 0px 0px 20px #000, 0px 0px 20px #000;
 }
 p.credit {
 	text-align: center;
+	font-family: Coronetscript, cursive;
+	font-size: 25px;
 }
+p.credit a {
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 25px;
+}
+
 a {
 	font-family: Roboto,"Open Sans","Helvetica Neue",Helvetica;
 	color: white;
