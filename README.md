@@ -9,11 +9,12 @@ dailybruin-recycling
 * move photo credit to top (remove word "courtesy") Photos by Austin Yu/Daily Bruin
 * lightbox for extra photos (get captions from Katherine)
 * add graphics
-* <del>make background darker</del>
 * change title
 * add in graphics
 * add in them extra photos. fullscreen lightbox?
 * pretty fonts!
+* <del>copy over final story from camayak</del>
+* <del>make background darker</del>
 * <del> add in all text (pending completed article) </del>
 * <del> add in GitHub link </del>
 * <del> add in credit for Jenny, Fred, & Lowell </del>
