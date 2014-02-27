@@ -6,10 +6,10 @@ dailybruin-recycling
 
 #todo
 
-* move photo credit to top (remove word "courtesy") Photos by Austin Yu/Daily Bruin
-* lightbox for extra photos (get captions from Katherine)
 * add graphics
 * pretty fonts!
+* <del>lightbox for extra photos (get captions from Katherine)</del>
+* <del>move photo credit to top (remove word "courtesy") Photos by Austin Yu/Daily Bruin</del>
 * <del>change title</del>
 * <del>copy over final story from camayak</del>
 * <del>make background darker</del>

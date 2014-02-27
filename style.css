@@ -1,3 +1,13 @@
+img.thumb {
+	height: 350px;
+}
+img {
+
+}
+div.image {
+	/*margin-left: auto*/
+	vertical-align: middle
+}
 div.body {
 	filter: blur(10px);
 	/*-webkit-filter: blur(2px);*/
@@ -9,6 +19,7 @@ div.body {
 	box-shadow: 1px 2px 3px rgba(0,0,0,.8);
 	background-color: rgba(0, 0, 0, 0.65);
 	width: 60%;
+	max-width: 1000px;
 	margin: 0 auto;
 	border-radius:25px;
 	margin-top: 1em;
@@ -76,11 +87,4 @@ html, body {
 #twoC { background-image: url(photos/web.ns.2.27.recycling2.picC.jpg); }
 #twoD { background-image: url(photos/web.ns.2.27.recycling2.picD.jpg); }
 #twoE { background-image: url(photos/web.ns.2.27.recycling2.picE.jpg); }
-#exports { 
-	background-image: url(graphics/2.27.news.cl.waste.export.edit3.jpg); 
-	background-size: 100%;
-}
-#waste { 
-	background-image: url(graphics/combine_images.jpg); 
-	background-size: 100%;
-}
+#footer { background-image: url(photos/web.ns.2.27.recycling3.picB.jpg); }
