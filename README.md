@@ -1,13 +1,10 @@
 dailybruin-recycling
 ====================
 
-![sample photo 1](sample.png)
-![sample photo 2](sample2.png)
-
 #todo
 
 * add graphics
-* pretty fonts!
+* <del>pretty fonts!</del>
 * <del>lightbox for extra photos (get captions from Katherine)</del>
 * <del>move photo credit to top (remove word "courtesy") Photos by Austin Yu/Daily Bruin</del>
 * <del>change title</del>
