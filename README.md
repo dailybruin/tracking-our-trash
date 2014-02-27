@@ -1,6 +1,8 @@
 dailybruin-recycling
 ====================
 
+![sample](sample.png)
+
 #todo
 
 * <del>add graphics</del>
