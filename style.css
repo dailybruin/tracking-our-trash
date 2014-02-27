@@ -64,6 +64,21 @@ strong.subhead {
 	font-size: 2em;
 }
 
+.spectrum-refer {
+    margin-top: 1em;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    background-color: rgba(0,0,0, 0.5);
+    display: inline-block;
+    text-decoration: none;
+    padding: 0.5em 1em;
+}
+
+.spectrum-refer img {
+    vertical-align: middle;
+}
+
 /*DONT TOUCH THIS SHIT TOOK ME FOREVER*/
 section {
   background: 50% 0 no-repeat fixed;
